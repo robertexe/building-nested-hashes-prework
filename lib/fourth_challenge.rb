@@ -33,6 +33,5 @@ def fourth_challenge
    }
 }
 
-
-
+:status = "dead"
 end
